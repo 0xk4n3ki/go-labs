@@ -1,4 +1,14 @@
-- [https://bwoff.medium.com/the-comprehensive-guide-to-concurrency-in-golang-aaa99f8bccf6](https://bwoff.medium.com/the-comprehensive-guide-to-concurrency-in-golang-aaa99f8bccf6)
+- [Tutorial Link](https://bwoff.medium.com/the-comprehensive-guide-to-concurrency-in-golang-aaa99f8bccf6)
+
+### Index
+- [Core Idea](#core-idea)
+- [Concurrency vs Parallelism](#which-one-is-better)
+- [GoRoutines](#goroutines)
+- [Advantages & Disadvantages of Go's Concurrency](#advantages-of-gos-concurrency-model)
+- [Simple Analogy](#simple-analogy-go-version)
+- [Channels](#channels)
+- [GoRoutines: Key points](#goroutines-key-points)
+- [WaitGroup](#waitgroup-basics)
 
 ### Core Idea
 - Concurrency is the bigger idea → dealing with many tasks at once.
