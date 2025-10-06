@@ -1,0 +1,2 @@
+- [https://youtu.be/BdzYdN_Zd9Q?si=-U9IWJJ1EvupSzcO](https://youtu.be/BdzYdN_Zd9Q?si=-U9IWJJ1EvupSzcO)
+- [https://tutorialedge.net/golang/go-grpc-beginners-tutorial/](https://tutorialedge.net/golang/go-grpc-beginners-tutorial/)
