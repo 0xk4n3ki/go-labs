@@ -1,0 +1,1 @@
+- [https://blog.jetbrains.com/go/2024/11/20/deploying-go-apps-with-kubernetes/#installing-packages](https://blog.jetbrains.com/go/2024/11/20/deploying-go-apps-with-kubernetes/#installing-packages)
